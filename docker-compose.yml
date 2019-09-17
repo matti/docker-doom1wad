@@ -1,0 +1,6 @@
+version: "3.6"
+
+services:
+  doom1wad:
+    build: .
+    image: mattipaksula/doom1wad
